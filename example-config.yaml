@@ -1,0 +1,8 @@
+elytron:
+    directory: /home/user/workspace/elytron
+    component: org.wildfly.security.elytron
+core:
+    directory: /home/user/workspace/core
+    component: org.wildfly.core
+wildfly:
+    directory: /home/user/workspace/wildfly

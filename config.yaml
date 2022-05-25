@@ -1,8 +1,0 @@
-elytron:
-    directory: /home/ashpan/workspace/elytron
-    component: org.wildfly.security.elytron
-core:
-    directory: /home/ashpan/workspace/core
-    component: org.wildfly.core
-wildfly:
-    directory: /home/ashpan/workspace/wildfly
